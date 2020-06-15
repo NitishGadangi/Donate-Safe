@@ -25,9 +25,9 @@ This issue has been solved and addressed by a blockchain-based transparent chari
 ## Screenshots
 <table>
     <tr>
-     <td><kbd><img src="./screenshots/one.jpeg"></kbd></td>
-     <td><kbd><img src="./screenshots/two.jpeg"></kbd></td>
-     <td><kbd><img src="./screenshots/three.jpeg"></kbd></td>
+     <td><kbd><img height="450" src="./screenshots/one.jpeg"></kbd></td>
+     <td><kbd><img height="450" src="./screenshots/two.jpeg"></kbd></td>
+     <td><kbd><img height="450" src="./screenshots/three.jpeg"></kbd></td>
     </tr>
 </table>
 
