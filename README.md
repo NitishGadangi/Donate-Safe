@@ -10,7 +10,7 @@
   </a>
 </p>
 
-#### Block chain based donation platform
+#### Block chain based donation platform (Concept Prototype)
 Prototype built on Android integrated with [Ethereum](https://ethereum.org/) and [Matic](https://matic.network/).
 
 User is Prompted with various Donation Schemes available on various platforms
